@@ -1,0 +1,32 @@
+{
+    "id": 222437,
+    "name": "Vanishing Void",
+    "author": "Aizen",
+    "creators": [],
+    "verifier": "RoSStock",
+    "verification": "-",
+    "percentToQualify": "56",
+    "password": "-",
+    "records": [
+        {
+            "user": "Simon",
+            "link": "https://www.youtube.com/watch?v=sYWUUpf8y6I",
+            "percent": "100"
+        },
+        {
+            "user": "z",
+            "link": "https://www.youtube.com/watch?v=xFR-ro1FM5Q",
+            "percent": "100"
+        },
+        {
+            "user": "Ordyardy",
+            "link": "https://www.youtube.com/watch?v=nx0FcEdCLFg",
+            "percent": "100"
+        },
+        {
+            "user": "duck",
+            "link": "https://www.youtube.com/embed/XHp3FhVHLq8",
+            "percent": "100"
+        }
+    ]
+}
