@@ -1,0 +1,23 @@
+{
+    "id": 477680,
+    "name": "challeng",
+    "author": "Simon",
+    "creators": [],
+    "verifier": "Simon",
+    "verification": "-",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+                      {
+            "user": "qwartzboi",
+            "link": "https://www.youtube.com/watch?v=EZmd7b5zJes",
+            "percent": 100
+        },
+        
+        {
+            "user": "duck",
+            "link": "https://www.youtube.com/embed/XHp3FhVHLq8",
+            "percent": 100
+        }
+    ]
+}
