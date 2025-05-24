@@ -1,0 +1,27 @@
+{
+    "id": 1020779,
+    "name": "Flame Doom Domain",
+    "author": "Flame",
+    "creators": [],
+    "verifier": "Flame",
+    "verification": "https://www.youtube.com/watch?v=4nEZYwhnlg8&ab_channel=Flame",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+                    {
+            "user": "Ordyardy",
+            "link": "https://www.youtube.com/watch?v=IuQf0uA6-YU&ab_channel=%C3%98rdy",
+            "percent": 100
+        },
+              {
+            "user": "deacnome",
+            "link": "https://www.youtube.com/watch?v=Covrfd1gQxs&ab_channel=deacnome%28gd%29",
+            "percent": 100
+        },
+                    {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=odAw5WrNsTE&ab_channel=duck",
+            "percent": 100
+        }
+    ]
+}
