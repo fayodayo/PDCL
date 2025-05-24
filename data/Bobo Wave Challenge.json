@@ -1,0 +1,22 @@
+{
+    "id": "940178",
+    "name": "Bobo Wave Challenge",
+    "author": "BoboUK",
+    "creators": [],
+    "verifier": "Faye",
+    "verification": "https://www.youtube.com/watch?v=ffTrrcvLTn8&t=1s",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+                    {
+            "user": "Ordyardy",
+            "link": "https://www.youtube.com/watch?v=KIhzzzUdElY",
+            "percent": 100
+        },
+                          {
+            "user": "duck",
+            "link": "https://www.youtube.com/embed/XHp3FhVHLq8",
+            "percent": 100
+        }
+    ]
+}
