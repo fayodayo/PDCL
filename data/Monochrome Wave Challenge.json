@@ -1,0 +1,27 @@
+{
+    "id": 836025,
+    "name": "Monochrome Wave Challenge",
+    "author": "B4COIR",
+    "creators": [],
+    "verifier": "B4COIR",
+    "verification": "https://www.youtube.com/watch?v=vTnZE4GoXhs&ab_channel=B4COIR%5BPD%5D",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+                    {
+            "user": "JordanPD",
+            "link": "https://www.tiktok.com/@jordanpolydash/video/7474581751948414230",
+            "percent": 100
+        },
+                    {
+            "user": "Ordyardy",
+            "link": "https://www.youtube.com/watch?v=3TdIXBn4SVM&ab_channel=0rdyardy",
+            "percent": 100
+        },
+                    {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=-V7wGpe6LLs&ab_channel=duck",
+            "percent": 100
+        }
+    ]
+}
