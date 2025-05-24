@@ -1,17 +1,32 @@
 {
-    "id": 116431,
-    "name": "Bloodied",
-    "author": "Gandstar",
+    "id": 304004,
+    "name": "Frozen Runes",
+    "author": "ATOMIC",
     "creators": [],
-    "verifier": "qwartzboi",
-    "verification": "https://www.youtube.com/watch?v=SjA0sOt-PKE&ab_channel=Qwartz",
-    "percentToQualify": "62",
+    "verifier": "Simon",
+    "verification": "-",
+    "percentToQualify": "56",
     "password": "-",
     "records": [
-                      {
-            "user": "fayodayo",
-            "link": "https://www.youtube.com/watch?v=pCUJkG7GGDs&ab_channel=Faye",
-            "percent": 100
+        {
+            "user": "Ghazt",
+            "link": "https://www.youtube.com/watch?v=6US8SXJOopQ",
+            "percent": "100"
+        },
+        {
+            "user": "Ordyardy",
+            "link": "-",
+            "percent": "100"
+        },
+        {
+            "user": "duck",
+            "link": "https://www.youtube.com/embed/21kqYf355c4",
+            "percent": "100"
+        },
+        {
+            "user": "arielus05",
+            "link": "https://medal.tv/games/roblox/clips/jLronvx3Sn9jtKEeQ?invite=cr-MSxIM0EsMzQzNDU2Mjks",
+            "percent": "100"
         }
     ]
 }
