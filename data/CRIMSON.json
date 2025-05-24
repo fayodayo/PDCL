@@ -1,0 +1,22 @@
+{
+    "id": 693108,
+    "name": "CRIMSON",
+    "author": "MythzGMD",
+    "creators": ["MythzGMD", "CrEf85"],
+    "verifier": "duck",
+    "verification": "https://www.youtube.com/watch?v=x5cWa311Xjc",
+    "percentToQualify": "53",
+    "password": "-",
+    "records": [
+                    {
+            "user": "Dogboi320",
+            "link": "https://www.youtube.com/watch?v=FNKCDCBaQ4E",
+            "percent": 100
+        },
+                                {
+            "user": "fayodayo",
+            "link": "https://www.youtube.com/watch?v=AHaDWFdMRw4",
+            "percent": 100
+        }
+    ]
+}
