@@ -1,0 +1,37 @@
+{
+    "id": "915386",
+    "name": "Challenge Blizzard",
+    "author": "JordanPD",
+    "creators": [],
+    "verifier": "JordanPD",
+    "verification": "https://www.tiktok.com/@jordanpolydash/video/7457232004933815585",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+                    {
+            "user": "FHJordan",
+            "link": "https://www.youtube.com/watch?v=caLqEGWPN_Q&ab_channel=FHJordan",
+            "percent": 100
+        },
+              {
+            "user": "Ordyardy",
+            "link": "https://www.youtube.com/watch?v=us_QrTow4Dk",
+            "percent": 100
+        },
+              {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=-V7wGpe6LLs&ab_channel=duck",
+            "percent": 100
+        },
+                    {
+            "user": "deacnome",
+            "link": "https://www.youtube.com/watch?v=TpZP7EBHPSg&ab_channel=deacnome%28gd%29",
+            "percent": 100
+        },
+                    {
+            "user": "Vextres",
+            "link": "https://www.youtube.com/watch?v=EbVLNQKGrY8&ab_channel=Vextres%28RBLX%29",
+            "percent": 100
+        }
+    ]
+}
