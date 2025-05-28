@@ -1,0 +1,32 @@
+{
+    "id": "127398",
+    "name": "WaveX",
+    "author": "Angryface",
+    "creators": [],
+    "verifier": "xoliverx35",
+    "verification": "-",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "Simon",
+            "link": "https://www.youtube.com/watch?v=9-BTCNX52uo",
+            "percent": 100
+        },
+                    {
+            "user": "Ghazt",
+            "link": "https://www.youtube.com/watch?v=6US8SXJOopQ&ab_channel=GhaztGD",
+            "percent": 100
+        },
+              {
+            "user": "Ordyardy",
+            "link": "https://www.youtube.com/watch?v=yY4chJaaZwM&ab_channel=%C3%98rdy",
+            "percent": 100
+        },
+                    {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=-V7wGpe6LLs&ab_channel=duck",
+            "percent": 100
+        }
+    ]
+}
