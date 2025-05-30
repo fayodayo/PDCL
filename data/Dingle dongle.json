@@ -1,0 +1,32 @@
+{
+    "id": "43700",
+    "name": "Dingle dongle",
+    "author": "FHJordan",
+    "creators": [],
+    "verifier": "FHJordan",
+    "verification": "https://www.youtube.com/watch?v=B8OQiYjHHh8&ab_channel=FHJordan",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+                    {
+            "user": "JordanPD",
+            "link": "https://www.tiktok.com/@jordanpolydash/video/7457231650024344864",
+            "percent": 100
+        },
+                          {
+            "user": "WouldRather",
+            "link": "https://www.youtube.com/watch?v=sNWeR5UWIB4",
+            "percent": 100
+        },
+                          {
+            "user": "Ordyardy",
+            "link": "https://www.youtube.com/watch?v=ZzCF1fmvaq4&ab_channel=%C3%98rdy",
+            "percent": 100
+        },
+                          {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=-V7wGpe6LLs&ab_channel=duck",
+            "percent": 100
+        }
+    ]
+}
