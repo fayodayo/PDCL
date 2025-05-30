@@ -1,0 +1,42 @@
+{
+    "id": "1010069",
+    "name": "Robot Chall-Enge",
+    "author": "IamDead-i8k",
+    "creators": [],
+    "verifier": "B4COIR",
+    "verification": "https://www.youtube.com/watch?v=7AEKUaYnlWs&ab_channel=B4COIR%5BPD%5D",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+                    {
+            "user": "Ordyardy",
+            "link": "https://www.youtube.com/watch?v=rfQ6-j6tyJc&ab_channel=0rdyardy",
+            "percent": 100
+        },
+        {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=odAw5WrNsTE&ab_channel=duck",
+            "percent": 100
+        },
+                                      {
+            "user": "deacnome",
+            "link": "https://www.youtube.com/watch?v=yBWY3T4EQUI&ab_channel=deacnome%28gd%29",
+            "percent": 100
+        },
+                          {
+            "user": "Bigian",
+            "link": "https://www.youtube.com/watch?v=yBWY3T4EQUI&ab_channel=deacnome%28gd%29",
+            "percent": 100
+        },
+                      {
+            "user": "Bigian",
+            "link": "https://www.youtube.com/watch?v=8DFFW1is8tI&ab_channel=Bigian",
+            "percent": 100
+        },
+              {
+            "user": "Vextres",
+            "link": "https://www.youtube.com/watch?v=FE1eW84Udj4&ab_channel=Vextres%28RBLX%29",
+            "percent": 100
+        }
+    ]
+}
