@@ -10,7 +10,7 @@
     "records": [
         {
             "user": "duck",
-            "percent": "100",
+            "percent": 100,
             "link": "https://www.youtube.com/watch?v=FJ2eix2jIAw&ab_channel=duck"
         }
     ]
