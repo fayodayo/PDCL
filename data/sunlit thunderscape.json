@@ -1,0 +1,27 @@
+{
+    "id": "988223",
+    "name": "sunlit thunderscape",
+    "author": "B4COIR",
+    "creators": [],
+    "verifier": "B4COIR",
+    "verification": "https://www.youtube.com/watch?v=UOpao0hr6Mo&ab_channel=B4COIR%5BPD%5D",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+                    {
+            "user": "JordanPD",
+            "link": "https://www.tiktok.com/@jordanpolydash/video/7467624558913277217",
+            "percent": 100
+        },
+                          {
+            "user": "Ordyardy",
+            "link": "https://www.youtube.com/watch?v=k-jeNwANP7g",
+            "percent": 100
+        },
+                          {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=-V7wGpe6LLs&ab_channel=duck",
+            "percent": 100
+        }
+    ]
+}
