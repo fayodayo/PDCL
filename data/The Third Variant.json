@@ -1,0 +1,37 @@
+{
+    "id": "784824",
+    "name": "The Third Variant",
+    "author": "Firestorm",
+    "creators": [],
+    "verifier": "Firestorm",
+    "verification": "-",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+                    {
+            "user": "Aquanox",
+            "link": "https://www.youtube.com/watch?app=desktop&v=UBmmBJYS9Lo&ab_channel=TwoTime%28Blossom%29",
+            "percent": 100
+        },
+        {
+            "user": "JordanPD",
+            "link": "https://www.tiktok.com/@jordanpolydash/video/7456808722447207713",
+            "percent": 100
+        },
+                                      {
+            "user": "Ordyardy",
+            "link": "https://www.youtube.com/watch?v=oYkEbky9xiw",
+            "percent": 100
+        },
+                      {
+            "user": "duck",
+            "link": "https://www.youtube.com/watch?v=odAw5WrNsTE&ab_channel=duck",
+            "percent": 100
+        },
+              {
+            "user": "Bigian",
+            "link": "https://www.youtube.com/watch?v=8DFFW1is8tI&ab_channel=Bigian",
+            "percent": 100
+        }
+    ]
+}
