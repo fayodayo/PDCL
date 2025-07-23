@@ -1,7 +1,7 @@
 {
     "id": 0,
     "name": "MetaZone",
-    "author": "XLC_",
+    "author": "patrick_orcaALT",
     "creators": [],
     "verifier": "Omikron",
     "verification": "https://www.youtube.com/watch?v=laKCL9vrWFs&ab_channel=OmikronPD",
@@ -11,6 +11,11 @@
                                       {
             "user": "Sovrn",
             "link": "https://youtu.be/PQWQMs7aaKU?si=WPeROSoDmSow8fI6",
+            "percent": 100
+        },
+                                              {
+            "user": "JordanPD",
+            "link": "https://www.tiktok.com/@jordanpolydash/video/7530215890311220502",
             "percent": 100
         }
     ]
