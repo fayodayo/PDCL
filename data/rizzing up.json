@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
+        {
+            "user": "Angryface",
+            "link": "https://youtu.be/vvpvnTRYI2U",
+            "percent": 100
+        }
     ]
 }
