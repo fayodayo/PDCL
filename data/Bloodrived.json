@@ -1,5 +1,5 @@
 {
-    "id": 0,
+    "id": 1436004,
     "name": "Bloodrived",
     "author": "Miserbiry",
     "creators": [],
@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
+                        {
+            "user": "TheChillGuy",
+            "link": "https://www.youtube.com/watch?v=44W9DH20KwA",
+            "percent": 100
+        }
     ]
 }
