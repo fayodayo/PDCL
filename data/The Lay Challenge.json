@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
+                                        {
+            "user": "Aery",
+            "link": "https://youtu.be/cYT1ZXsPfyE?si=0SWg-0Q7I34FYwN7",
+            "percent": 100
+        }
     ]
 }
