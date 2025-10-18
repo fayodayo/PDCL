@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
+                                {
+            "user": "Medium Big Mac",
+            "link": "https://www.youtube.com/watch?v=vGJMLM5AihM",
+            "percent": 100
+        }
     ]
 }
