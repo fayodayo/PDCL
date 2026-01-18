@@ -8,24 +8,29 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
-                                                                                                                                {
+                                    {
             "user": "duck",
             "link": "https://www.youtube.com/watch?v=0ldpoxTtVSk&t",
             "percent": 100
         },
-                                                                                                                                                        {
+                                        {
             "user": "Isaac0216",
             "link": "https://youtu.be/1n0r4ace110?si=pxwXdc6aMpfWwlKg",
             "percent": 100
         },
-                                                                                                                                                                                                                                        {
+                                                           {
             "user": "JordanPD",
             "link": "https://www.tiktok.com/@jordanpolydash/video/7577850600134561046",
             "percent": 100
         },
-                                                                                                                                                                                                                                                {
+                                                                      {
             "user": "Toxic",
             "link": "https://youtu.be/7-cge9GgsME?si=1CTO0rHn15X5H62b",
+            "percent": 100
+        },
+                                                                      {
+            "user": "stud_yoon",
+            "link": "https://youtu.be/DdV2pRagI9c",
             "percent": 100
         }
     ]
