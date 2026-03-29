@@ -1,6 +1,6 @@
 {
     "id": 118830,
-    "name": "Jordan Wave",
+    "name": "NOT Jordan Wave",
     "author": "JordanPD",
     "creators": [],
     "verifier": "JoaqFirr",
@@ -31,6 +31,11 @@
                                                                                                                                 {
             "user": "duck",
             "link": "https://www.youtube.com/watch?v=0ldpoxTtVSk&t",
+            "percent": 100
+        },
+                                                                                    {
+            "user": "Muril2k10",
+            "link": "https://youtu.be/YwAM9-5UNUM",
             "percent": 100
         }
     ]
