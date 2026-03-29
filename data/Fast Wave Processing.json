@@ -1,5 +1,5 @@
 {
-    "id": 0,
+    "id": 1913690,
     "name": "Fast Wave Processing",
     "author": "BoboUK",
     "creators": [],
@@ -11,6 +11,11 @@
                                                         {
             "user": "Bananadogdude",
             "link": "https://www.youtube.com/watch?v=XndUnidtny8",
+            "percent": 100
+        },
+                                                    {
+            "user": "Muril2k10",
+            "link": "https://youtu.be/YwAM9-5UNUM",
             "percent": 100
         }
     ]
