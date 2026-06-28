@@ -8,9 +8,14 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
-                                                                                                                                        {
+             {
             "user": "Muril2k10",
             "link": "https://youtu.be/UcE5JBsluZ8",
+            "percent": 100
+        },
+                     {
+            "user": "goneta_zyphryx",
+            "link": "https://youtu.be/wqcUYlxmLAM",
             "percent": 100
         }
     ]
