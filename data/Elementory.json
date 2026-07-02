@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
+                                              {
+            "user": "PolarBlue",
+            "link": "https://youtu.be/IGgnkA8KfsY?feature=shared",
+            "percent": 100
+        }
     ]
 }
