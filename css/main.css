@@ -118,3 +118,9 @@ input[type="checkbox"] {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.gradient-5 {
+    background: linear-gradient(90deg, #2E2EFF 0%, #2E2EFF 40%, #0000FF 70%, #0000D1 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
