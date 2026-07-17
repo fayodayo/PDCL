@@ -130,6 +130,9 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we no longer accept records for that level unless it was submitted before it fell off
                     </p>
+                    <p>
+                        In order to submit a video, the clicks must be clearly audible so we can verify that the attempt is legitimate. This requirement only applies to levels above the Top 15.
+                    </p>
                 </div>
             </div>
         </main>
