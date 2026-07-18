@@ -37,7 +37,7 @@ export default {
                                         'gradient-2': i === 1,
                                         'gradient-3': i === 2,
                                         'gradient-4': i === 3,
-                                        'gradient-5': i === 4
+                                        'gradient-5': i === 5
                                     }">
                                 {{ level?.name || \`Error (\${err}.json)\` }}
                                 </span>
