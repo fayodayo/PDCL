@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/p8Omm9w5v7I?si=5L4_kxUJwIv-gGdi",
     "percentToQualify": "100",
     "password": "-",
-    "records": []
+    "records": [
+                                     {
+            "user": "peter kirby",
+            "link": "https://youtu.be/Gd_kzAlo9AI",
+            "percent": 100
+        }
+    ]
 }
