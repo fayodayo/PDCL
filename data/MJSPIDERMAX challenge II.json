@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
+                                                                    {
+            "user": "peter kirby",
+            "link": "https://youtu.be/DV2zfV2ltKQ",
+            "percent": 100
+        }
     ]
 }
