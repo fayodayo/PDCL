@@ -102,18 +102,24 @@ input[type="checkbox"] {
 }
 
 .gradient-2 {
-    background: linear-gradient(90deg, #FFF296 0%, #FFFC2E 40%, #FFFB00 70%, #A37A00 100%);
+    background: linear-gradient(90deg, #2E2EFF 0%, #2E2EFF 40%, #0000FF 70%, #181885 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 .gradient-3 {
-    background: linear-gradient(90deg, #D1D1D1 0%, #BFBFBF 40%, #A8A8A8 70%, #8A8A8A 100%);
+    background: linear-gradient(90deg, #FFF296 0%, #FFFC2E 40%, #FFFB00 70%, #A37A00 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 .gradient-4 {
+    background: linear-gradient(90deg, #D1D1D1 0%, #BFBFBF 40%, #A8A8A8 70%, #8A8A8A 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.gradient-5 {
     background: linear-gradient(
     90deg,
     #FFFFFF 0%,
@@ -122,12 +128,6 @@ input[type="checkbox"] {
     #00B7FF 70%,
     #006BFF 100%
     );
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
-.gradient-5 {
-    background: linear-gradient(90deg, #2E2EFF 0%, #2E2EFF 40%, #0000FF 70%, #181885 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
