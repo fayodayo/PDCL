@@ -133,6 +133,9 @@ export default {
                     <p>
                         In order to submit a video, the clicks must be clearly audible so we can verify that the attempt is legitimate. This requirement only applies to levels above the Top 15.
                     </p>
+                    <p>
+                        Level updates are limited to a maximum of 1. This rule has been introduced to prevent levels from being updated solely to artificially inflate their difficulty.
+                    </p>
                 </div>
             </div>
         </main>
