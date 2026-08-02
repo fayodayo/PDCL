@@ -8,9 +8,14 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
-                                                                                                                                                {
+                                                {
             "user": "ryanbro_hi",
             "link": "https://www.youtube.com/watch?v=jZ7MyjuoKfo",
+            "percent": 100
+        },
+                                                        {
+            "user": "peter kirby",
+            "link": "https://www.youtube.com/watch?v=AC1-_dJYmZ8",
             "percent": 100
         }
     ]
