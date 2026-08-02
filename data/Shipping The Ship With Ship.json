@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
+                                                              {
+            "user": "peter kitty",
+            "link": "https://youtu.be/fRtHoxumFjs",
+            "percent": 100
+        }
     ]
 }
