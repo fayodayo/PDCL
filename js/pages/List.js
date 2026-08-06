@@ -131,7 +131,7 @@ export default {
                         Once a level falls onto the Legacy List, we no longer accept records for that level unless it was submitted before it fell off
                     </p>
                     <p>
-                        In order to submit a video, the clicks must be clearly audible so we can verify that the attempt is legitimate. This requirement only applies to levels above the Top 15.
+                        In order to submit a video, the clicks must be clearly audible so we can verify that the attempt is legitimate. This requirement only applies to levels above the Top 3.
                     </p>
                     <p>
                         Level updates are limited to a maximum of 1. This rule has been introduced to prevent levels from being updated solely to artificially inflate their difficulty.
