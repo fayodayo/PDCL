@@ -1,5 +1,5 @@
 {
-    "id": 0,
+    "id": 1982449,
     "name": "I ran over my uncle",
     "author": "DDev_",
     "creators": [],
@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
+                {
+            "user": "peter kirby",
+            "link": "https://youtu.be/qqMKJD7Dl4E",
+            "percent": 100
+        }
     ]
 }
