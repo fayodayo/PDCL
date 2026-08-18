@@ -35,8 +35,8 @@ export default {
                                     :class="{
                                         'gradient-1': i === 0,
                                         'gradient-2': i === 1,
-                                        'gradient-3': i === 3,
-                                        'gradient-4': i === 2,
+                                        'gradient-3': i === 2,
+                                        'gradient-4': i === 3,
                                         'gradient-5': i === 4
                                     }">
                                 {{ level?.name || \`Error (\${err}.json)\` }}
