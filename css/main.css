@@ -99,24 +99,28 @@ input[type="checkbox"] {
     background: linear-gradient(90deg, #F52727 0%, #F55B27 40%, #F59C27 70%, #F5C227 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    /* Avernus Chall */
 }
 
 .gradient-2 {
     background: linear-gradient(90deg, #38b7d1 0%, #2c8395 40%, #b24bb2 70%, #b02db0 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    /* The! Buffed */
 }
 
 .gradient-3 {
     background: linear-gradient(90deg, #FFF296 0%, #FFFC2E 40%, #FFFB00 70%, #A37A00 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    /* Easier Than VSC */
 }
 
 .gradient-4 {
     background: linear-gradient(90deg, #D1D1D1 0%, #BFBFBF 40%, #A8A8A8 70%, #8A8A8A 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    /* Robot Skillz */
 }
 
 .gradient-5 {
@@ -130,4 +134,5 @@ input[type="checkbox"] {
     );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    /* Unnerfed Aqua Chall */
 }
