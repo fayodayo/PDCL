@@ -13,10 +13,14 @@
             "link": "https://www.youtube.com/watch?v=EZmd7b5zJes",
             "percent": 100
         },
-        
         {
             "user": "duck",
             "link": "https://www.youtube.com/embed/XHp3FhVHLq8",
+            "percent": 100
+        },
+                {
+            "user": "peter kirby",
+            "link": "https://youtu.be/kmZwsmVQ2dM",
             "percent": 100
         }
     ]
