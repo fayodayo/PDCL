@@ -8,13 +8,19 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
-                                                                                                                                                {
+                                  {
             "user": "duck",
             "link": "https://www.youtube.com/watch?v=5UkEWtA_zEQ",
             "percent": 100
-        },                                                                                                                                                {
+        },                
+        {
             "user": "Aery",
             "link": "https://www.youtube.com/watch?v=2nKePLRA2SA",
+            "percent": 100
+        },                
+        {
+            "user": "peter kirby",
+            "link": "https://youtu.be/7rwT6N_Qb-4",
             "percent": 100
         }
     ]
